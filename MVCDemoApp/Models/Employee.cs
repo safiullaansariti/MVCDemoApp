@@ -13,7 +13,7 @@ namespace MVCDemoApp.Models
         }
         public void Method2()
         {
-
+            Console.WriteLine("Changed From Git");
         }
     }
 }
