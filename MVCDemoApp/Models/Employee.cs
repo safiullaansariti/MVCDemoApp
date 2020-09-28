@@ -9,7 +9,7 @@ namespace MVCDemoApp.Models
     {
         public void Method1()
         {
-            Console.WriteLine("I Done");
+            Console.WriteLine("I Done 3 changes");
         }
     }
 }
