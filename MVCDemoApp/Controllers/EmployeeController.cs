@@ -11,7 +11,7 @@ namespace MVCDemoApp.Controllers
         // GET: Employee
         public ActionResult Index()
         {
-            return View();
+            return View("Index");
         }
     }
 }
