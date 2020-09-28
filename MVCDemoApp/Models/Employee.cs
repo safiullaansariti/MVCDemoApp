@@ -15,5 +15,9 @@ namespace MVCDemoApp.Models
         {
             Console.WriteLine("Changed From Git");
         }
+        public void Method3()
+        {
+            Console.WriteLine("Changed From Branch");
+        }
     }
 }
