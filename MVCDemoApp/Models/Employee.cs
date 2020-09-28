@@ -11,5 +11,9 @@ namespace MVCDemoApp.Models
         {
             Console.WriteLine("I Done 3 changes with 5 values");
         }
+        public void Method2()
+        {
+
+        }
     }
 }
